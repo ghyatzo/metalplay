@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "ImGui",
+        "repositoryURL": "https://github.com/ctreffs/SwiftImGui",
+        "state": {
+          "branch": null,
+          "revision": "f350c3b371952fc7c151953f499d1635d19324f2",
+          "version": "1.78.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
