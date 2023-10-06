@@ -1,2 +1,2 @@
 # metalplay
-My code that i used to learn how to use the metal API for GPGPU purposes
+1 Milion interacting particles run on a laptop GPU, to explore real-time hardware accelerated simulations and visualisations.
